@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://ttp.matheusbosc.com/wp-content/uploads/2026/04/LogoFullDarkMode.png" alt="Trust The Process Logo" width="300"/>
 </p>
+
 # Trust The Process
 
 **We don't skip steps. We just speed through them.**
