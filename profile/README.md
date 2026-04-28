@@ -75,8 +75,8 @@ This organization is used for:
 
 ## 🌐 Links
 
-* [ttp.matheusbosc.com](https://ttp.matheusbosc.com)
-* [youtube.com/@TrustTheProcess-Games](https://www.youtube.com/@TrustTheProcess-Games)
+* [Website](https://ttp.matheusbosc.com)
+* [YouTube](https://www.youtube.com/@TrustTheProcess-Games)
 
 ---
 
