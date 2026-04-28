@@ -75,12 +75,8 @@ This organization is used for:
 
 ## 🌐 Links
 
-*(Add your links here when ready)*
-
-* Website
-* Devlogs / YouTube
-* Social Media
-* Steam Page
+* [ttp.matheusbosc.com](https://ttp.matheusbosc.com)
+* [youtube.com/@TrustTheProcess-Games](https://www.youtube.com/@TrustTheProcess-Games)
 
 ---
 
